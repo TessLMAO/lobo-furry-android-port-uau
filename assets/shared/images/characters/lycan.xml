@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="FireDoggy_Assets.png">
+<SubTexture name="do0000" x="2011" y="2910" width="684" height="563" frameX="-147" frameY="-208" frameWidth="1020" frameHeight="1020" />
+<SubTexture name="do0001" x="1330" y="2910" width="681" height="564" frameX="-150" frameY="-207" frameWidth="1020" frameHeight="1020" />
+<SubTexture name="do0002" x="3259" y="1872" width="669" height="565" frameX="-160" frameY="-208" frameWidth="1020" frameHeight="1020" />
+<SubTexture name="do0003" x="0" y="2910" width="665" height="565" frameX="-163" frameY="-208" frameWidth="1020" frameHeight="1020" />
+<SubTexture name="do0004" x="665" y="2910" width="665" height="565" frameX="-163" frameY="-208" frameWidth="1020" frameHeight="1020" />
+<SubTexture name="idle0000" x="1207" y="755" width="591" height="750" frameX="-177" frameY="-128" frameWidth="1020" frameHeight="1020" />
+<SubTexture name="idle0001" x="615" y="755" width="592" height="752" frameX="-176" frameY="-126" frameWidth="1020" frameHeight="1020" />
+<SubTexture name="idle0002" x="0" y="0" width="614" height="755" frameX="-157" frameY="-123" frameWidth="1020" frameHeight="1020" />
+<SubTexture name="idle0003" x="614" y="0" width="618" height="755" frameX="-153" frameY="-123" frameWidth="1020" frameHeight="1020" />
+<SubTexture name="idle0004" x="1232" y="0" width="618" height="755" frameX="-153" frameY="-123" frameWidth="1020" frameHeight="1020" />
+<SubTexture name="idle0005" x="0" y="755" width="615" height="755" frameX="-155" frameY="-123" frameWidth="1020" frameHeight="1020" />
+<SubTexture name="le0000" x="0" y="2245" width="711" height="665" frameX="-99" frameY="-138" frameWidth="1020" frameHeight="1020" />
+<SubTexture name="le0001" x="2549" y="0" width="710" height="666" frameX="-102" frameY="-137" frameWidth="1020" frameHeight="1020" />
+<SubTexture name="le0002" x="2549" y="666" width="707" height="664" frameX="-113" frameY="-139" frameWidth="1020" frameHeight="1020" />
+<SubTexture name="le0003" x="2549" y="1330" width="706" height="664" frameX="-116" frameY="-139" frameWidth="1020" frameHeight="1020" />
+<SubTexture name="le0004" x="711" y="2245" width="705" height="663" frameX="-117" frameY="-140" frameWidth="1020" frameHeight="1020" />
+<SubTexture name="ri0000" x="1416" y="2245" width="701" height="625" frameX="-150" frameY="-178" frameWidth="1020" frameHeight="1020" />
+<SubTexture name="ri0001" x="2117" y="2245" width="699" height="624" frameX="-152" frameY="-179" frameWidth="1020" frameHeight="1020" />
+<SubTexture name="ri0002" x="3259" y="0" width="682" height="624" frameX="-159" frameY="-179" frameWidth="1020" frameHeight="1020" />
+<SubTexture name="ri0003" x="3259" y="624" width="676" height="624" frameX="-162" frameY="-179" frameWidth="1020" frameHeight="1020" />
+<SubTexture name="ri0004" x="3259" y="1248" width="674" height="624" frameX="-163" frameY="-179" frameWidth="1020" frameHeight="1020" />
+<SubTexture name="up0000" x="1850" y="0" width="699" height="735" frameX="-88" frameY="-99" frameWidth="1020" frameHeight="1020" />
+<SubTexture name="up0001" x="0" y="1510" width="700" height="735" frameX="-91" frameY="-100" frameWidth="1020" frameHeight="1020" />
+<SubTexture name="up0002" x="700" y="1510" width="700" height="730" frameX="-107" frameY="-104" frameWidth="1020" frameHeight="1020" />
+<SubTexture name="up0003" x="1850" y="735" width="698" height="730" frameX="-112" frameY="-104" frameWidth="1020" frameHeight="1020" />
+<SubTexture name="up0004" x="1400" y="1510" width="697" height="730" frameX="-112" frameY="-104" frameWidth="1020" frameHeight="1020" />
+</TextureAtlas>
