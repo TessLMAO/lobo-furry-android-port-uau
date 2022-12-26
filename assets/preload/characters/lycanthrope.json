@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 12,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				-104
+			],
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "ri"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-120,
+				-148
+			],
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "do"
+		},
+		{
+			"offsets": [
+				-13,
+				-62
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 12,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-90,
+				-108
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "le",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/lycan",
+	"position": [
+		-286,
+		-458
+	],
+	"healthicon": "ly",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		-320
+	],
+	"sing_duration": 6.1,
+	"scale": 1.5
+}
