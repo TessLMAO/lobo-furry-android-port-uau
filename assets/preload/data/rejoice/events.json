@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 2.6,
+		"stage": "wrath",
+		"player1": "bflivid",
+		"player2": "lyca",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"noteskinchangeOPPT",
+						"lyc",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 167,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Before The Storm"
+	}
+}
